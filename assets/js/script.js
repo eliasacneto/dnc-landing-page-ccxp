@@ -1,3 +1,4 @@
+//countdown function
 const day = document.getElementById('day')
 const hour = document.getElementById('hour')
 const min = document.getElementById('min')
