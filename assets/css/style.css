@@ -102,6 +102,7 @@ video{
 
 .btn-ticket:hover{
   background-color: #F3C61F;
+  color: #000;
 }
 .warning-ticket{
   display: flex;
